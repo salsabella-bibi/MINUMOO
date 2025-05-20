@@ -1,0 +1,9 @@
+<resources>
+    <dimen name="logo_size">64dp</dimen>
+    <dimen name="margin_large">40dp</dimen>
+    <dimen name="text_large">24sp</dimen>
+    <dimen name="text_medium">18sp</dimen>
+    <dimen name="text_small">14sp</dimen>
+    <dimen name="button_padding_vertical">12dp</dimen>
+    <dimen name="button_corner_radius">16dp</dimen>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Minumoo</string>
+    <string name="get_started">Ayo Mulai</string>
+    <string name="sign_in">Masuk</string>
+    <string name="sign_in_with">atau masuk dengan</string>
+    <string name="signup_prompt">Belum punya akun?</string>
+    <string name="signup_now">Daftar Sekarang</string>
+</resources>
